@@ -1,44 +1,130 @@
-# Hi there !!
+<div align="center">
 
-## 🔨 Languages & Frameworks & Skills ⭐️:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=220&section=header&text=Hasan%20Rizvi&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Mumbai%2C%20India&descSize=20&descAlignY=60&animation=fadeIn" alt="Hasan Rizvi - Frontend Engineer" />
 
-### Web Design & Development 💻:
-#### 🙈 - Frontend:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+<a href="https://github.com/rizvihasan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0000FF&center=true&vCenter=true&width=640&lines=I+build+the+part+of+the+product+people+touch;Real-time+dashboards+and+analytics+UIs;Open-source+developer+tools;Accessible%2C+fast%2C+well-tested+interfaces" alt="Typing tagline" />
+</a>
 
-#### 🙉 - Backend:
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<br/>
 
-#### 🙊 - Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rizvihasan.github.io-0000ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizvihasan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rizvihasan17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizvihasan17)
+[![Email](https://img.shields.io/badge/Email-hasanmrizvi72@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmrizvi72@gmail.com)
 
-#### 🐵 - Hosting Services and Web Tools:
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Followers](https://img.shields.io/github/followers/rizvihasan?style=flat-square&logo=github&color=0000ff)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frizvihasan&query=%24.public_repos&label=public%20repos&style=flat-square&color=0000ff)
+![Location](https://img.shields.io/badge/Mumbai-India-black?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-opportunities-brightgreen?style=flat-square)
 
-### DevOps ♾️:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-E95420?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
-### Others:
-![Python](https://img.shields.io/badge/Python-E95420?style=for-the-badge&logo=python&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-### IDEs and Tools 🛠:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+## About
+
+I'm a frontend engineer in Mumbai. Right now I own the frontend and integration layer of a real-time analytics platform for AI-generated assessment data at **Webeedream**. Before that I led the frontend on two high-traffic, customer-facing modules at **NSEIT**.
+
+Outside work I build developer tools in the open, like **TokenRoute**, a self-hostable LLM gateway.
+
+- Building: [TokenRoute](https://github.com/rizvihasan/tokenroute) and [Fintrx](https://github.com/rizvihasan/fintrx)
+- Care about: accessibility, performance, and interfaces that explain themselves
+- Open to relocating anywhere in India
+
+## Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,html,css,nodejs,python&perline=10" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,bootstrap,vite,postman,netlify&perline=8" alt="Backend, data and hosting" />
+<br/>
+<img src="https://skillicons.dev/icons?i=jest,cypress,docker,git,github,vercel,vscode,figma&perline=8" alt="Tools" />
+
+</div>
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TokenRoute](https://github.com/rizvihasan/tokenroute)
+Self-hostable LLM gateway: lane routing with fallback, an OpenAI-compatible API, a semantic cache, RAG and a live analytics console. Apache 2.0.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Fintrx](https://github.com/rizvihasan/fintrx)
+A modern app for tracking, visualising and managing personal finances.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Portfolio](https://github.com/rizvihasan/rizvihasan.github.io)
+My portfolio, built in a brutalist full-bleed tile style with canvas animations. Plain HTML, CSS and JavaScript. [Live](https://rizvihasan.github.io)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Quadtree Visualizer](https://github.com/rizvihasan/quadtree-visualizer)
+A visual demo of how quadtrees group entities to speed up collision detection.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Flexpod](https://github.com/rizvihasan/flexpod)
+A full-featured podcast app with login, built in React.
+
+</td>
+<td width="50%" valign="top">
+
+### [Digidiner](https://github.com/rizvihasan/digidiner)
+A MERN food-ordering app: browse the menu, fill a cart, place pickup orders.
+
+</td>
+</tr>
+</table>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rizvihasan&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0000ff&icon_color=0000ff&text_color=000000" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizvihasan&layout=compact&hide_border=true&bg_color=ffffff&title_color=0000ff&text_color=000000&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=rizvihasan&hide_border=true&background=FFFFFF&ring=0000FF&fire=0000FF&currStreakLabel=0000FF" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizvihasan&bg_color=ffffff&color=0000ff&line=0000ff&point=000000&area=true&hide_border=true" alt="Contribution activity" />
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizvihasan/rizvihasan/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rizvihasan/rizvihasan/output/github-snake.svg" />
+</picture>
+</div>
+
+## Let's talk
+
+Hiring for a frontend role, or building something interesting? Email me at [hasanmrizvi72@gmail.com](mailto:hasanmrizvi72@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/rizvihasan17).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=100&section=footer" width="100%" alt="" />
