@@ -23,9 +23,7 @@
 
 ## About
 
-I'm a frontend engineer in Mumbai. Right now I own the frontend and integration layer of a real-time analytics platform for AI-generated assessment data at **Webeedream**. Before that I led the frontend on two high-traffic, customer-facing modules at **NSEIT**.
-
-Outside work I build developer tools in the open, like **TokenRoute**, a self-hostable LLM gateway.
+I'm a fullstack engineer in Mumbai. Outside work I build developer tools in the open, like **TokenRoute**, a self-hostable LLM gateway.
 
 - Building: [TokenRoute](https://github.com/rizvihasan/tokenroute) and [Fintrx](https://github.com/rizvihasan/fintrx)
 - Care about: accessibility, performance, and interfaces that explain themselves
