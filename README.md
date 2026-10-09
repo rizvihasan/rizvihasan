@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=220&section=header&text=Hasan%20Rizvi&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Mumbai%2C%20India&descSize=20&descAlignY=60&animation=fadeIn" alt="Hasan Rizvi - Fullstack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=220&section=header&text=Hasan%20Rizvi&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%C2%B7%20Mumbai%2C%20India&descSize=20&descAlignY=60&animation=fadeIn" alt="Hasan Rizvi - Fullstack Engineer" />
 
 <a href="https://github.com/rizvihasan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0000FF&center=true&vCenter=true&width=640&lines=I+build+the+part+of+the+product+people+touch;Real-time+dashboards+and+analytics+UIs;Open-source+developer+tools;Accessible%2C+fast%2C+well-tested+interfaces" alt="Typing tagline" />
